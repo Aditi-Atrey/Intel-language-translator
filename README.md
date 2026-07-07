@@ -12,7 +12,7 @@ I built this project to explore how **Natural Language Processing (NLP)** models
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3
-* **Libraries:** `googletrans` / `tkinter`
+* **Libraries:** `googletrans` / `tkinter` / `gTTS`
 * **Learning Source:** Intel training modules & YouTube tutorials
 
 ## 📈 My Coding Journey Timeline
