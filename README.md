@@ -1,6 +1,6 @@
-# 🌐 AI-Powered Language Translator (9th Grade Project)
+# 🌐 AI-Powered Language Translator 
 
-This is a Python-based language translator application that I built in 2022 when I was in the 9th grade. This project was developed and submitted as part of the **Intel® AI For Youth** digital readiness initiative.
+This is a Python-based language translator application that I built in 2022. This project was developed and submitted as part of the **Intel® AI For Youth** digital readiness initiative.
 
 ## 🏆 Verified Certification
 * **Program:** Intel® Digital Readiness Initiative
