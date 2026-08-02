@@ -17,4 +17,4 @@ I built this project to explore how **Natural Language Processing (NLP)** models
 
 
 ---
-*Feel free to star ⭐ this repository to follow my developer journey from the very beginning!*
+*Feel free to star ⭐ this repository to follow*
